@@ -1,1 +1,1 @@
-#!/bin/bash
+zer day
